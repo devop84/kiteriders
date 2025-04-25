@@ -1,0 +1,252 @@
+{
+  "common": {
+    "schoolName": "Kiteriders",
+    "bookNow": "Reserve Agora",
+    "learnMore": "Saiba Mais",
+    "address": "Kiteriders - Pousada Vila Guara, Praia Principal, Atins, Barreirinhas, Maranhão, Brasil",
+    "phone": "+55 (98) 99161 2336",
+    "email": "info@kiteriders.com"
+  },
+  "hero": {
+    "title": "Experimente a Emoção do",
+    "highlight": "Kitesurf",
+    "subtitle": "Aprenda com instrutores profissionais nos locais mais deslumbrantes com nossa escola premiada de kitesurf.",
+    "bookLesson": "Reserve Sua Aula",
+    "exploreCourses": "Explorar Cursos"
+  },
+  "nav": {
+    "home": "Início",
+    "about": "Sobre",
+    "courses": "Cursos",
+    "experiences": "Experiências",
+    "events": "Eventos",
+    "instructors": "Instrutores",
+    "gallery": "Galeria",
+    "testimonials": "Depoimentos",
+    "booking": "Reservas",
+    "contact": "Contato"
+  },
+  "about": {
+    "title": "Sobre",
+    "highlight": "Kiteriders",
+    "subtitle": "Desde 2010, a Kiteriders tem ajudado alunos de todas as idades e níveis a experimentar a emoção e liberdade do kitesurf no ambiente mais seguro possível.",
+    "whyChoose": "Por que escolher a Kiteriders?",
+    "features": {
+      "safety": {
+        "title": "Segurança em Primeiro Lugar",
+        "description": "Nossos instrutores são certificados em primeiros socorros e resgate aquático, garantindo que sua segurança seja sempre a prioridade."
+      },
+      "certified": {
+        "title": "Instrutores Profissionais Certificados",
+        "description": "Aprenda com instrutores certificados IKO e VDWS com anos de experiência e paixão pelo esporte."
+      },
+      "groups": {
+        "title": "Grupos Pequenos",
+        "description": "Mantemos uma proporção de 4:1 alunos por instrutor para garantir atenção personalizada e aprendizado mais rápido."
+      },
+      "locations": {
+        "title": "Localizações Privilegiadas",
+        "description": "Nossa escola opera em locais com ventos constantes e condições ideais para iniciantes e riders avançados."
+      }
+    }
+  },
+  "courses": {
+    "title": "Nossos",
+    "highlight": "Cursos",
+    "subtitle": "De iniciantes absolutos a riders avançados que buscam aperfeiçoar suas habilidades, oferecemos uma variedade de cursos adaptados ao seu nível e objetivos.",
+    "levels": {
+      "beginner": "Iniciante",
+      "intermediate": "Intermediário",
+      "advanced": "Avançado",
+      "specialty": "Especialidade"
+    },
+    "viewAll": "Ver Todos os Cursos",
+    "duration": "Duração",
+    "price": "Preço"
+  },
+  "instructors": {
+    "title": "Nossos",
+    "highlight": "Instrutores",
+    "subtitle": "Conheça nossa equipe de profissionais certificados que são apaixonados por kitesurf e dedicados a ajudá-lo a aprender com segurança e eficiência.",
+    "certification": "Certificação",
+    "experience": "Experiência"
+  },
+  "gallery": {
+    "title": "Nossa",
+    "highlight": "Galeria",
+    "subtitle": "Explore momentos emocionantes de nossas sessões de kitesurf e campos de treinamento.",
+    "categories": {
+      "all": "Todos",
+      "action": "Ação",
+      "lessons": "Aulas",
+      "scenery": "Paisagens"
+    }
+  },
+  "testimonials": {
+    "title": "O que Nossos",
+    "highlight": "Alunos",
+    "say": "Dizem",
+    "subtitle": "Ouça nossa comunidade de kitesurfistas que aprenderam conosco."
+  },
+  "booking": {
+    "title": "Reserve Sua",
+    "highlight": "Aula",
+    "subtitle": "Pronto para pegar algumas ondas? Reserve sua aula de kitesurf agora e comece sua aventura com nossos instrutores especialistas.",
+    "form": {
+      "fullName": "Nome Completo",
+      "email": "Endereço de Email",
+      "phone": "Número de Telefone",
+      "courseType": "Tipo de Curso",
+      "selectCourse": "Selecione um curso",
+      "date": "Data Preferida",
+      "time": "Horário Preferido",
+      "selectTime": "Selecione o horário",
+      "morning": "Manhã (9h-12h)",
+      "afternoon": "Tarde (13h-16h)",
+      "evening": "Final da Tarde (17h-19h)",
+      "message": "Informações Adicionais",
+      "messagePlaceholder": "Quaisquer solicitações especiais ou informações que devemos saber..."
+    },
+    "info": {
+      "title": "Informações de Reserva",
+      "howItWorks": {
+        "title": "Como Funciona",
+        "steps": [
+          "Preencha o formulário de reserva com seus dados",
+          "Entraremos em contato para confirmar a disponibilidade",
+          "Pague 25% de entrada para garantir sua vaga",
+          "Receba a confirmação e instruções de preparação"
+        ]
+      },
+      "whatToBring": {
+        "title": "O que Trazer",
+        "items": [
+          "Roupa de banho",
+          "Toalha",
+          "Protetor solar",
+          "Garrafa de água"
+        ]
+      },
+      "cancellation": {
+        "title": "Política de Cancelamento",
+        "text": "Cancelamento gratuito até 48 horas antes da sua sessão. Cancelamentos dentro de 48 horas estão sujeitos a uma taxa de 50%."
+      },
+      "needHelp": {
+        "title": "Precisa de Ajuda?",
+        "text": "Entre em contato com nossa equipe de reservas:"
+      }
+    }
+  },
+  "contact": {
+    "title": "Entre em",
+    "highlight": "Contato",
+    "subtitle": "Tem perguntas ou precisa de mais informações? Estamos aqui para ajudar! Entre em contato com nossa equipe.",
+    "form": {
+      "fullName": "Nome Completo",
+      "email": "Endereço de Email",
+      "subject": "Assunto",
+      "selectSubject": "Selecione um assunto",
+      "subjects": {
+        "general": "Dúvida Geral",
+        "booking": "Questão sobre Reserva",
+        "private": "Aulas Particulares",
+        "group": "Tarifas para Grupos",
+        "equipment": "Aluguel de Equipamento",
+        "other": "Outro"
+      },
+      "message": "Mensagem",
+      "messagePlaceholder": "Sua mensagem aqui...",
+      "privacy": "Concordo com a política de privacidade e consinto em ser contatado sobre minha consulta.",
+      "send": "Enviar Mensagem"
+    },
+    "info": {
+      "title": "Entre em Contato",
+      "callUs": "Ligue para Nós",
+      "emailUs": "Envie um Email",
+      "visitUs": "Visite-nos",
+      "followUs": "Siga-nos",
+      "emergency": {
+        "title": "Contato de Emergência",
+        "text": "Para assuntos urgentes durante as sessões:"
+      },
+      "hours": "Horário de Funcionamento",
+      "hoursValue": "9h às 19h todos os dias"
+    },
+    "faq": {
+      "title": "Perguntas Frequentes",
+      "questions": [
+        {
+          "q": "Como me preparo para minha primeira aula?",
+          "a": "Recomendamos trazer roupa de banho, toalha, protetor solar e garrafa de água. Todo o equipamento é fornecido."
+        },
+        {
+          "q": "E se o tempo estiver ruim?",
+          "a": "Se as condições climáticas não forem adequadas, remarcaremos sua aula sem custo adicional."
+        }
+      ]
+    }
+  },
+  "experiences": {
+    "title": "Experiências",
+    "highlight": "Únicas",
+    "subtitle": "Descubra aventuras extraordinárias de kitesurf com nossas experiências especializadas",
+    "bookNow": "Reservar Experiência",
+    "downwind": {
+      "title": "Aventuras Downwind",
+      "description": "Experimente a emoção do kitesurf de longa distância ao longo de belas costas. Perfeito para praticantes intermediários e avançados."
+    },
+    "exploration": {
+      "title": "Exploração de Spots",
+      "description": "Descubra lugares escondidos e spots secretos com nossos guias experientes. Visite múltiplos locais em uma emocionante jornada."
+    },
+    "sunset": {
+      "title": "Sessões ao Pôr do Sol",
+      "description": "Participe de nossas sessões especiais noturnas e experimente o kitesurf durante o momento mais bonito do dia."
+    },
+    "group": {
+      "title": "Aventuras em Grupo",
+      "description": "Compartilhe a experiência com outros kiters em nossas expedições em grupo. Ótimo para fazer novos amigos e melhorar habilidades."
+    }
+  },
+  "events": {
+    "title": "Próximos",
+    "highlight": "Eventos",
+    "subtitle": "Participe de nossos eventos emocionantes e faça parte da nossa comunidade de kitesurf",
+    "capacity": "Capacidade",
+    "registration": "Inscrições Abertas",
+    "register": "Inscreva-se Agora",
+    "competition": {
+      "title": "Competição de Verão",
+      "location": "Praia Principal",
+      "description": "Participe de nossa competição anual com categorias para todos os níveis."
+    },
+    "workshop": {
+      "title": "Workshop de Técnicas Avançadas",
+      "location": "Centro de Treinamento",
+      "description": "Aprenda manobras e técnicas avançadas com riders profissionais."
+    },
+    "beachParty": {
+      "title": "Churrasco na Praia & Sessão Noturna",
+      "location": "Ponta do Pôr do Sol",
+      "description": "Celebração de fim de temporada com comida, música e kite noturno."
+    }
+  },
+  "footer": {
+    "description": "Junte-se a nós para uma experiência inesquecível de kitesurf em um dos locais mais bonitos do Brasil.",
+    "quickLinks": "Links Rápidos",
+    "contactInfo": "Informações de Contato",
+    "newsletter": {
+      "title": "Newsletter",
+      "description": "Assine nossa newsletter para receber as últimas atualizações, ofertas especiais e dicas.",
+      "placeholder": "Seu endereço de email",
+      "button": "Assinar",
+      "privacy": "Respeitamos sua privacidade. Cancele a qualquer momento."
+    },
+    "rights": "Todos os direitos reservados.",
+    "policies": {
+      "privacy": "Política de Privacidade",
+      "terms": "Termos de Serviço",
+      "cookies": "Política de Cookies"
+    }
+  }
+}

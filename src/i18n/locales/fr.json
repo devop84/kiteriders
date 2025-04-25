@@ -1,0 +1,52 @@
+{
+  "common": {
+    "schoolName": "Kiteriders",
+    "bookNow": "Réserver",
+    "learnMore": "En Savoir Plus"
+  },
+  "experiences": {
+    "title": "Expériences",
+    "highlight": "Uniques",
+    "subtitle": "Découvrez des aventures extraordinaires de kitesurf avec nos expériences spécialisées",
+    "bookNow": "Réserver l'Expérience",
+    "downwind": {
+      "title": "Aventures Downwind",
+      "description": "Découvrez le frisson du kitesurf longue distance le long de magnifiques côtes. Parfait pour les riders intermédiaires et avancés."
+    },
+    "exploration": {
+      "title": "Exploration de Spots",
+      "description": "Découvrez des joyaux cachés et des spots secrets avec nos guides expérimentés. Visitez plusieurs endroits en un voyage passionnant."
+    },
+    "sunset": {
+      "title": "Sessions Coucher de Soleil",
+      "description": "Rejoignez nos sessions spéciales du soir et découvrez le kitesurf pendant le plus beau moment de la journée."
+    },
+    "group": {
+      "title": "Aventures en Groupe",
+      "description": "Partagez l'expérience avec d'autres kiteurs lors de nos expéditions en groupe. Idéal pour se faire de nouveaux amis et améliorer ses compétences."
+    }
+  },
+  "events": {
+    "title": "Prochains",
+    "highlight": "Événements",
+    "subtitle": "Participez à nos événements passionnants et rejoignez notre communauté de kitesurf",
+    "capacity": "Capacité",
+    "registration": "Inscriptions Ouvertes",
+    "register": "S'inscrire Maintenant",
+    "competition": {
+      "title": "Compétition d'Été",
+      "location": "Plage Principale",
+      "description": "Participez à notre compétition annuelle avec des catégories pour tous les niveaux."
+    },
+    "workshop": {
+      "title": "Atelier Techniques Avancées",
+      "location": "Centre d'Entraînement",
+      "description": "Apprenez des figures et techniques avancées avec des riders professionnels."
+    },
+    "beachParty": {
+      "title": "BBQ Plage & Session Nocturne",
+      "location": "Point du Coucher de Soleil",
+      "description": "Célébration de fin de saison avec nourriture, musique et kite nocturne."
+    }
+  }
+}

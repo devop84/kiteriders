@@ -1,0 +1,52 @@
+{
+  "common": {
+    "schoolName": "Kiteriders",
+    "bookNow": "Reservar Ahora",
+    "learnMore": "Saber Más"
+  },
+  "experiences": {
+    "title": "Experiencias",
+    "highlight": "Únicas",
+    "subtitle": "Descubre aventuras extraordinarias de kitesurf con nuestras experiencias especializadas",
+    "bookNow": "Reservar Experiencia",
+    "downwind": {
+      "title": "Aventuras Downwind",
+      "description": "Experimenta la emoción del kitesurf de larga distancia a lo largo de hermosas costas. Perfecto para riders intermedios y avanzados."
+    },
+    "exploration": {
+      "title": "Exploración de Spots",
+      "description": "Descubre joyas ocultas y spots secretos con nuestros guías experimentados. Visita múltiples ubicaciones en un emocionante viaje."
+    },
+    "sunset": {
+      "title": "Sesiones al Atardecer",
+      "description": "Únete a nuestras sesiones especiales nocturnas y experimenta el kitesurf durante el momento más hermoso del día."
+    },
+    "group": {
+      "title": "Aventuras en Grupo",
+      "description": "Comparte la experiencia con otros kiters en nuestras expediciones grupales. Excelente para hacer nuevos amigos y mejorar habilidades."
+    }
+  },
+  "events": {
+    "title": "Próximos",
+    "highlight": "Eventos",
+    "subtitle": "Únete a nuestros emocionantes eventos y forma parte de nuestra comunidad de kitesurf",
+    "capacity": "Capacidad",
+    "registration": "Inscripciones Abiertas",
+    "register": "Inscríbete Ahora",
+    "competition": {
+      "title": "Competencia de Verano",
+      "location": "Playa Principal",
+      "description": "Participa en nuestra competencia anual con categorías para todos los niveles."
+    },
+    "workshop": {
+      "title": "Taller de Técnicas Avanzadas",
+      "location": "Centro de Entrenamiento",
+      "description": "Aprende trucos y técnicas avanzadas con riders profesionales."
+    },
+    "beachParty": {
+      "title": "BBQ en la Playa & Sesión Nocturna",
+      "location": "Punto del Atardecer",
+      "description": "Celebración de fin de temporada con comida, música y kite nocturno."
+    }
+  }
+}

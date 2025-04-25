@@ -1,0 +1,252 @@
+{
+  "common": {
+    "schoolName": "Kiteriders",
+    "bookNow": "Book Now",
+    "learnMore": "Learn More",
+    "address": "Kiteriders - Pousada Vila Guara, Main Beach, Atins, Barreirinhas, Maranhao, Brazil",
+    "phone": "+55 (98) 99161 2336",
+    "email": "info@kiteriders.com"
+  },
+  "hero": {
+    "title": "Experience the Thrill of",
+    "highlight": "Kitesurfing",
+    "subtitle": "Learn from professional instructors in the most breathtaking locations with our award-winning kitesurfing school.",
+    "bookLesson": "Book Your Lesson",
+    "exploreCourses": "Explore Courses"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "courses": "Courses",
+    "experiences": "Experiences",
+    "events": "Events",
+    "instructors": "Instructors",
+    "gallery": "Gallery",
+    "testimonials": "Testimonials",
+    "booking": "Booking",
+    "contact": "Contact"
+  },
+  "about": {
+    "title": "About",
+    "highlight": "Kiteriders",
+    "subtitle": "Since 2010, Kiteriders has been helping students of all ages and skill levels experience the thrill and freedom of kitesurfing in the safest possible environment.",
+    "whyChoose": "Why Choose Kiteriders?",
+    "features": {
+      "safety": {
+        "title": "Safety First Approach",
+        "description": "Our instructors are certified in first aid and water rescue, ensuring your safety is always the top priority."
+      },
+      "certified": {
+        "title": "Certified Professional Instructors",
+        "description": "Learn from IKO and VDWS certified instructors with years of experience and passion for the sport."
+      },
+      "groups": {
+        "title": "Small Group Sizes",
+        "description": "We maintain a 4:1 student-to-instructor ratio to ensure personalized attention and faster learning."
+      },
+      "locations": {
+        "title": "Prime Locations",
+        "description": "Our school operates in spots with consistent winds and ideal conditions for beginners and advanced riders alike."
+      }
+    }
+  },
+  "courses": {
+    "title": "Our",
+    "highlight": "Courses",
+    "subtitle": "From absolute beginners to advanced riders looking to perfect their skills, we offer a range of courses tailored to your level and goals.",
+    "levels": {
+      "beginner": "Beginner",
+      "intermediate": "Intermediate",
+      "advanced": "Advanced",
+      "specialty": "Specialty"
+    },
+    "viewAll": "View All Courses",
+    "duration": "Duration",
+    "price": "Price"
+  },
+  "instructors": {
+    "title": "Our",
+    "highlight": "Instructors",
+    "subtitle": "Meet our team of certified professionals who are passionate about kitesurfing and dedicated to helping you learn safely and efficiently.",
+    "certification": "Certification",
+    "experience": "Experience"
+  },
+  "gallery": {
+    "title": "Our",
+    "highlight": "Gallery",
+    "subtitle": "Explore thrilling moments from our kitesurfing sessions and training camps.",
+    "categories": {
+      "all": "All",
+      "action": "Action",
+      "lessons": "Lessons",
+      "scenery": "Scenery"
+    }
+  },
+  "testimonials": {
+    "title": "What Our",
+    "highlight": "Students",
+    "say": "Say",
+    "subtitle": "Hear from our community of kitesurfers who've learned with us."
+  },
+  "booking": {
+    "title": "Book Your",
+    "highlight": "Session",
+    "subtitle": "Ready to catch some waves? Book your kitesurfing lesson now and start your adventure with our expert instructors.",
+    "form": {
+      "fullName": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "courseType": "Course Type",
+      "selectCourse": "Select a course",
+      "date": "Preferred Date",
+      "time": "Preferred Time",
+      "selectTime": "Select time",
+      "morning": "Morning (9AM-12PM)",
+      "afternoon": "Afternoon (1PM-4PM)",
+      "evening": "Evening (5PM-7PM)",
+      "message": "Additional Information",
+      "messagePlaceholder": "Any special requests or information we should know..."
+    },
+    "info": {
+      "title": "Booking Information",
+      "howItWorks": {
+        "title": "How It Works",
+        "steps": [
+          "Fill out the booking form with your details",
+          "We'll contact you to confirm availability",
+          "Pay a 25% deposit to secure your spot",
+          "Receive confirmation and preparation instructions"
+        ]
+      },
+      "whatToBring": {
+        "title": "What to Bring",
+        "items": [
+          "Swimwear",
+          "Towel",
+          "Sunscreen",
+          "Water bottle"
+        ]
+      },
+      "cancellation": {
+        "title": "Cancellation Policy",
+        "text": "Free cancellation up to 48 hours before your session. Cancellations within 48 hours are subject to a 50% fee."
+      },
+      "needHelp": {
+        "title": "Need Help?",
+        "text": "Contact our booking team for assistance:"
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "highlight": "Us",
+    "subtitle": "Have questions or need more information? We're here to help! Reach out to our team.",
+    "form": {
+      "fullName": "Full Name",
+      "email": "Email Address",
+      "subject": "Subject",
+      "selectSubject": "Select a subject",
+      "subjects": {
+        "general": "General Inquiry",
+        "booking": "Booking Question",
+        "private": "Private Lessons",
+        "group": "Group Rates",
+        "equipment": "Equipment Rental",
+        "other": "Other"
+      },
+      "message": "Message",
+      "messagePlaceholder": "Your message here...",
+      "privacy": "I agree to the privacy policy and consent to being contacted regarding my inquiry.",
+      "send": "Send Message"
+    },
+    "info": {
+      "title": "Get In Touch",
+      "callUs": "Call Us",
+      "emailUs": "Email Us",
+      "visitUs": "Visit Us",
+      "followUs": "Follow Us",
+      "emergency": {
+        "title": "Emergency Contact",
+        "text": "For urgent matters during sessions:"
+      },
+      "hours": "Operating Hours",
+      "hoursValue": "9 AM - 7 PM daily"
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "questions": [
+        {
+          "q": "How do I prepare for my first lesson?",
+          "a": "We recommend bringing swimwear, a towel, sunscreen, and a water bottle. All equipment is provided."
+        },
+        {
+          "q": "What if the weather is bad?",
+          "a": "If weather conditions are not suitable, we'll reschedule your lesson at no additional cost."
+        }
+      ]
+    }
+  },
+  "experiences": {
+    "title": "Unique",
+    "highlight": "Experiences",
+    "subtitle": "Discover extraordinary kitesurfing adventures with our specialized experiences",
+    "bookNow": "Book Experience",
+    "downwind": {
+      "title": "Downwind Adventures",
+      "description": "Experience the thrill of long-distance kitesurfing along beautiful coastlines. Perfect for intermediate and advanced riders."
+    },
+    "exploration": {
+      "title": "Spot Exploration",
+      "description": "Discover hidden gems and secret spots with our experienced guides. Visit multiple locations in one exciting journey."
+    },
+    "sunset": {
+      "title": "Sunset Sessions",
+      "description": "Join our special evening sessions and experience kitesurfing during the most beautiful time of day."
+    },
+    "group": {
+      "title": "Group Adventures",
+      "description": "Share the experience with fellow kiters in our group expeditions. Great for making new friends and improving skills."
+    }
+  },
+  "events": {
+    "title": "Upcoming",
+    "highlight": "Events",
+    "subtitle": "Join our exciting events and become part of our kitesurfing community",
+    "capacity": "Capacity",
+    "registration": "Registration Open",
+    "register": "Register Now",
+    "competition": {
+      "title": "Summer Kite Competition",
+      "location": "Main Beach",
+      "description": "Join our annual competition with categories for all skill levels."
+    },
+    "workshop": {
+      "title": "Advanced Techniques Workshop",
+      "location": "Training Center",
+      "description": "Learn advanced tricks and techniques from professional riders."
+    },
+    "beachParty": {
+      "title": "Beach BBQ & Night Session",
+      "location": "Sunset Point",
+      "description": "End-of-season celebration with food, music, and night kiting."
+    }
+  },
+  "footer": {
+    "description": "Join us for an unforgettable kitesurfing experience in one of Brazil's most beautiful locations.",
+    "quickLinks": "Quick Links",
+    "contactInfo": "Contact Info",
+    "newsletter": {
+      "title": "Newsletter",
+      "description": "Subscribe to our newsletter for the latest updates, special offers, and tips.",
+      "placeholder": "Your email address",
+      "button": "Subscribe",
+      "privacy": "We respect your privacy. Unsubscribe at any time."
+    },
+    "rights": "All rights reserved.",
+    "policies": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "cookies": "Cookie Policy"
+    }
+  }
+}

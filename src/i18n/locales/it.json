@@ -1,0 +1,52 @@
+{
+  "common": {
+    "schoolName": "Kiteriders",
+    "bookNow": "Prenota Ora",
+    "learnMore": "Scopri di Più"
+  },
+  "experiences": {
+    "title": "Esperienze",
+    "highlight": "Uniche",
+    "subtitle": "Scopri straordinarie avventure di kitesurf con le nostre esperienze specializzate",
+    "bookNow": "Prenota Esperienza",
+    "downwind": {
+      "title": "Avventure Downwind",
+      "description": "Prova l'emozione del kitesurf a lunga distanza lungo splendide coste. Perfetto per rider intermedi e avanzati."
+    },
+    "exploration": {
+      "title": "Esplorazione Spot",
+      "description": "Scopri gemme nascoste e spot segreti con le nostre guide esperte. Visita più località in un emozionante viaggio."
+    },
+    "sunset": {
+      "title": "Sessioni al Tramonto",
+      "description": "Unisciti alle nostre sessioni serali speciali e prova il kitesurf durante il momento più bello della giornata."
+    },
+    "group": {
+      "title": "Avventure di Gruppo",
+      "description": "Condividi l'esperienza con altri kiter nelle nostre spedizioni di gruppo. Ottimo per fare nuove amicizie e migliorare le abilità."
+    }
+  },
+  "events": {
+    "title": "Prossimi",
+    "highlight": "Eventi",
+    "subtitle": "Partecipa ai nostri entusiasmanti eventi e diventa parte della nostra comunità di kitesurf",
+    "capacity": "Capacità",
+    "registration": "Iscrizioni Aperte",
+    "register": "Iscriviti Ora",
+    "competition": {
+      "title": "Competizione Estiva",
+      "location": "Spiaggia Principale",
+      "description": "Partecipa alla nostra competizione annuale con categorie per tutti i livelli."
+    },
+    "workshop": {
+      "title": "Workshop Tecniche Avanzate",
+      "location": "Centro di Allenamento",
+      "description": "Impara trucchi e tecniche avanzate da rider professionisti."
+    },
+    "beachParty": {
+      "title": "BBQ in Spiaggia & Sessione Notturna",
+      "location": "Punto Tramonto",
+      "description": "Celebrazione di fine stagione con cibo, musica e kite notturno."
+    }
+  }
+}
